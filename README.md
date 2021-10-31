@@ -21,4 +21,4 @@ This problem is addressed using **Skin Detection**, **Image Segmentation**,**Ima
 - Run the file
 
 ## GUI
-![gui]()
+![gui](https://github.com/SURYASTIC/HAND-GESTURE-RECOGNITION-SMARTCITY-HACKATHON/blob/main/image.png)
